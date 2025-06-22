@@ -1,6 +1,6 @@
 {
-  "name": "weixi-portfolio-main",
-  "homepage":"https://imdavidlong.github.io/weixi-portfolio-main",
+  "name": "portfolio",
+  "homepage":"https://imdavidlong.github.io/portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
