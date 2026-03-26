@@ -8,11 +8,11 @@ export const Home = () => {
     >
       <RevealOnScroll>
         <div className="text-center z-10 px-4">
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-right">
+          <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-tight">
             Hi, I'm David Long
           </h1>
 
-          <p className="tex-gray-400 text-lg mb-8 max-w-lg mx-auto">
+          <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
           Software Engineer with 4+ years of experience designing distributed backend systems in .NET and Python.
           Specialized in real-time streaming, high-throughput data ingestion, and AI-assisted workflow automation
           for enterprise SaaS platforms.
