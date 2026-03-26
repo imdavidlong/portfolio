@@ -34,7 +34,7 @@ export const Projects = () => {
               </div>
               <div className="flex gap-4 items-center">
                 <a
-                  href="https://youtube-transcript-app-ec39.onrender.com"
+                  href="https://transcriptdl.onrender.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
