@@ -13,9 +13,9 @@ export const Home = () => {
           </h1>
 
           <p className="tex-gray-400 text-lg mb-8 max-w-lg mx-auto">
-          I am a full stack developer. I am dedicated to making complex technologies
-          simple and efficient through code and creativity, 
-          creating solutions that truly serve people.
+          Software Engineer with 4+ years of experience designing distributed backend systems in .NET and Python.
+          Specialized in real-time streaming, high-throughput data ingestion, and AI-assisted workflow automation
+          for enterprise SaaS platforms.
           </p>
           <div className="flex justify-center space-x-4">
             <a
