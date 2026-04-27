@@ -58,32 +58,7 @@ Error generating stack: `+i.message+`
                                     hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition
                     `,children:L},I))})]}),d.jsxs("div",{className:"rounded-xl p-6 hover:-translate-y-1 transition-all",children:[d.jsx("h3",{className:"text-xl font-bold mb-4",children:"Cloud & DevOps"}),d.jsx("div",{className:"flex flex-wrap gap-2",children:h.map((L,I)=>d.jsx("span",{className:`bg-blue-500/10 text-blue-500 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20
                                     hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition`,children:L},I))})]}),d.jsxs("div",{className:"rounded-xl p-6 hover:-translate-y-1 transition-all",children:[d.jsx("h3",{className:"text-xl font-bold mb-4",children:"AI & Automation"}),d.jsx("div",{className:"flex flex-wrap gap-2",children:O.map((L,I)=>d.jsx("span",{className:`bg-blue-500/10 text-blue-500 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20
-                                    hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition`,children:L},I))})]})]})]})]})})})},Zf=()=>d.jsx("section",{id:"projects",className:"min-h-screen flex items-center justify-center py-20",children:d.jsx(wr,{children:d.jsxs("div",{className:"max-w-5xl mx-auto px-4",children:[d.jsxs("h2",{className:"text-3xl font-bold mb-8 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent text-center",children:[" ","Featured Projects"]}),d.jsxs("div",{className:"grid grid-cols-1 md:grid-cols-2 gap-6",children:[d.jsxs("div",{className:"p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition",children:[d.jsx("h3",{className:"text-xl font-bold mb-2",children:"TranscriptDL"}),d.jsx("p",{className:"text-gray-400 mb-4",children:"One-click YouTube transcript downloader with smart sentence grouping, inline translation, bilingual UI, and .txt export. No account required."}),d.jsx("div",{className:"flex flex-wrap gap-2 mb-4",children:["Python","Flask","JavaScript","HTML/CSS"].map((v,k)=>d.jsx("span",{className:`bg-blue-500/10 text-blue-500 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20
-                                    hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all`,children:v},k))}),d.jsxs("div",{className:"flex gap-4 items-center",children:[d.jsx("a",{href:"https://youtube-transcript-app-ec39.onrender.com",target:"_blank",rel:"noopener noreferrer",className:"text-blue-400 hover:text-blue-300 transition-colors my-4",children:"Live Demo →"}),d.jsx("a",{href:"https://github.com/imdavidlong/youtube-transcript-app",target:"_blank",rel:"noopener noreferrer",className:"text-gray-400 hover:text-gray-300 transition-colors my-4",children:"GitHub →"})]})]}),d.jsxs("div",{className:"p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition",children:[d.jsx("h3",{className:"text-xl font-bold mb-2",children:" MBTI Life Solver AI Bot"}),d.jsx("p",{className:"text-gray-400 mb-4",children:"Created an AI-powered web app delivering personalized support using GPT-4o, MBTI insights, and an interactive Streamlit interface."}),d.jsx("div",{className:"flex flex-wrap gap-2 mb-4",children:["Python","Streamlit","OpenAI API"].map((v,k)=>d.jsx("span",{className:`bg-blue-500/10 text-blue-500 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20 
-                                    hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all
-                    `,children:v},k))}),d.jsx("div",{className:"flex justify-between items-center",children:d.jsx("a",{href:"https://github.com/imdavidlong",className:"text-blue-400 hover:text-blue-300 transition-colors my-4",children:"View Project →"})})]}),d.jsxs("div",{className:`
-              glass p-6 rounded-xl border border-white/10 
-              hover:-translate-y-1 hover:border-blue-500/30
-              hover:shadow-[0_4px_20px_rgba(59,130,246,0.1)]
-              transition-all
-            `,children:[d.jsx("h3",{className:"text-xl font-bold mb-2",children:" Covid-19 Info Update App"}),d.jsx("p",{className:"text-gray-400 mb-4",children:"Built a secure, real-time Covid-19 app with Spring Boot, MyBatis, and a responsive Bootstrap interface."}),d.jsx("div",{className:"flex flex-wrap gap-2 mb-4",children:["Java","Spring Boot","Maven","MyBatis"].map((v,k)=>d.jsx("span",{className:`
-                      bg-blue-500/10 text-blue-500 py-1 px-3 
-                      rounded-full text-sm
-                      transition
-                      hover:bg-blue-500/20 hover:-translate-y-0.5
-                      hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)]
-                    `,children:v},k))}),d.jsx("div",{className:"flex justify-between items-center",children:d.jsx("a",{href:"https://github.com/imdavidlong/covid-19-tracker-app-update",className:"text-blue-400 hover:text-blue-300 transition-colors my-4",children:"View Project →"})})]}),d.jsxs("div",{className:`
-              glass p-6 rounded-xl border border-white/10 
-              hover:-translate-y-1 hover:border-blue-500/30
-              hover:shadow-[0_4px_20px_rgba(59,130,246,0.1)]
-              transition-all
-            `,children:[d.jsx("h3",{className:"text-xl font-bold mb-2",children:"Budget App"}),d.jsx("p",{className:"text-gray-400 mb-4",children:"Built a dynamic budget app with JavaScript and jQuery, featuring real-time tracking and cloud deployment."}),d.jsx("div",{className:"flex flex-wrap gap-2 mb-4",children:["JavaScript","HTML","CSS","jQuery","Huawei Cloud"].map(v=>d.jsx("span",{className:`
-                      bg-blue-500/10 text-blue-500 py-1 px-3 
-                      rounded-full text-sm
-                      transition
-                      hover:bg-blue-500/20 hover:-translate-y-0.5
-                      hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)]
-                    `,children:v},v))}),d.jsx("div",{className:"flex justify-between items-center",children:d.jsx("a",{href:"https://github.com/imdavidlong/Budget_App",className:"text-blue-400 hover:text-blue-300 transition-colors my-4",children:"View Project →"})})]}),d.jsxs("div",{className:`
+                                    hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition`,children:L},I))})]})]})]})]})})})},Zf=()=>d.jsx("section",{id:"projects",className:"min-h-screen flex items-center justify-center py-20",children:d.jsx(wr,{children:d.jsxs("div",{className:"max-w-5xl mx-auto px-4",children:[d.jsxs("h2",{className:"text-3xl font-bold mb-8 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent text-center",children:[" ","Featured Projects"]}),d.jsxs("div",{className:"grid grid-cols-1 md:grid-cols-2 gap-6",children:[d.jsxs("div",{className:`
               glass p-6 rounded-xl border border-white/10
               hover:-translate-y-1 hover:border-blue-500/30
               hover:shadow-[0_4px_20px_rgba(59,130,246,0.1)]
@@ -94,13 +69,38 @@ Error generating stack: `+i.message+`
                       transition
                       hover:bg-blue-500/20 hover:-translate-y-0.5
                       hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)]
-                    `,children:v},k))}),d.jsxs("div",{className:"flex gap-4 items-center",children:[d.jsx("a",{href:"https://portfoliohub-davidlong-e7b4c6hdg5dbdbfs.canadacentral-01.azurewebsites.net",target:"_blank",rel:"noopener noreferrer",className:"text-blue-400 hover:text-blue-300 transition-colors my-4",children:"Live Demo →"}),d.jsx("a",{href:"https://github.com/imdavidlong/PortfolioHub",target:"_blank",rel:"noopener noreferrer",className:"text-gray-400 hover:text-gray-300 transition-colors my-4",children:"GitHub →"})]})]}),d.jsxs("div",{className:`
+                    `,children:v},k))}),d.jsxs("div",{className:"flex gap-4 items-center",children:[d.jsx("a",{href:"https://portfoliohub-davidlong-e7b4c6hdg5dbdbfs.canadacentral-01.azurewebsites.net",target:"_blank",rel:"noopener noreferrer",className:"text-blue-400 hover:text-blue-300 transition-colors my-4",children:"Live Demo →"}),d.jsx("a",{href:"https://github.com/imdavidlong/PortfolioHub",target:"_blank",rel:"noopener noreferrer",className:"text-gray-400 hover:text-gray-300 transition-colors my-4",children:"GitHub →"})]})]}),d.jsxs("div",{className:"p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition",children:[d.jsx("h3",{className:"text-xl font-bold mb-2",children:"TranscriptDL"}),d.jsx("p",{className:"text-gray-400 mb-4",children:"One-click YouTube transcript downloader with smart sentence grouping, inline translation, bilingual UI, and .txt export. No account required."}),d.jsx("div",{className:"flex flex-wrap gap-2 mb-4",children:["Python","Flask","JavaScript","HTML/CSS"].map((v,k)=>d.jsx("span",{className:`bg-blue-500/10 text-blue-500 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20
+                                    hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all`,children:v},k))}),d.jsxs("div",{className:"flex gap-4 items-center",children:[d.jsx("a",{href:"https://youtube-transcript-app-ec39.onrender.com",target:"_blank",rel:"noopener noreferrer",className:"text-blue-400 hover:text-blue-300 transition-colors my-4",children:"Live Demo →"}),d.jsx("a",{href:"https://github.com/imdavidlong/youtube-transcript-app",target:"_blank",rel:"noopener noreferrer",className:"text-gray-400 hover:text-gray-300 transition-colors my-4",children:"GitHub →"})]})]}),d.jsxs("div",{className:"p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition",children:[d.jsx("h3",{className:"text-xl font-bold mb-2",children:" MBTI Life Solver AI Bot"}),d.jsx("p",{className:"text-gray-400 mb-4",children:"Created an AI-powered web app delivering personalized support using GPT-4o, MBTI insights, and an interactive Streamlit interface."}),d.jsx("div",{className:"flex flex-wrap gap-2 mb-4",children:["Python","Streamlit","OpenAI API"].map((v,k)=>d.jsx("span",{className:`bg-blue-500/10 text-blue-500 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20
+                                    hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all
+                    `,children:v},k))}),d.jsx("div",{className:"flex justify-between items-center",children:d.jsx("a",{href:"https://github.com/imdavidlong",className:"text-blue-400 hover:text-blue-300 transition-colors my-4",children:"View Project →"})})]}),d.jsxs("div",{className:`
+              glass p-6 rounded-xl border border-white/10
+              hover:-translate-y-1 hover:border-blue-500/30
+              hover:shadow-[0_4px_20px_rgba(59,130,246,0.1)]
+              transition-all
+            `,children:[d.jsx("h3",{className:"text-xl font-bold mb-2",children:" Covid-19 Info Update App"}),d.jsx("p",{className:"text-gray-400 mb-4",children:"Built a secure, real-time Covid-19 app with Spring Boot, MyBatis, and a responsive Bootstrap interface."}),d.jsx("div",{className:"flex flex-wrap gap-2 mb-4",children:["Java","Spring Boot","Maven","MyBatis"].map((v,k)=>d.jsx("span",{className:`
+                      bg-blue-500/10 text-blue-500 py-1 px-3
+                      rounded-full text-sm
+                      transition
+                      hover:bg-blue-500/20 hover:-translate-y-0.5
+                      hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)]
+                    `,children:v},k))}),d.jsx("div",{className:"flex justify-between items-center",children:d.jsx("a",{href:"https://github.com/imdavidlong/covid-19-tracker-app-update",className:"text-blue-400 hover:text-blue-300 transition-colors my-4",children:"View Project →"})})]}),d.jsxs("div",{className:`
+              glass p-6 rounded-xl border border-white/10
+              hover:-translate-y-1 hover:border-blue-500/30
+              hover:shadow-[0_4px_20px_rgba(59,130,246,0.1)]
+              transition-all
+            `,children:[d.jsx("h3",{className:"text-xl font-bold mb-2",children:"Budget App"}),d.jsx("p",{className:"text-gray-400 mb-4",children:"Built a dynamic budget app with JavaScript and jQuery, featuring real-time tracking and cloud deployment."}),d.jsx("div",{className:"flex flex-wrap gap-2 mb-4",children:["JavaScript","HTML","CSS","jQuery","Huawei Cloud"].map(v=>d.jsx("span",{className:`
+                      bg-blue-500/10 text-blue-500 py-1 px-3
+                      rounded-full text-sm
+                      transition
+                      hover:bg-blue-500/20 hover:-translate-y-0.5
+                      hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)]
+                    `,children:v},v))}),d.jsx("div",{className:"flex justify-between items-center",children:d.jsx("a",{href:"https://github.com/imdavidlong/Budget_App",className:"text-blue-400 hover:text-blue-300 transition-colors my-4",children:"View Project →"})})]}),d.jsxs("div",{className:`
               glass p-6 rounded-xl border border-white/10
               hover:-translate-y-1 hover:border-blue-500/30
               hover:shadow-[0_4px_20px_rgba(59,130,246,0.1)]
               transition-all
             `,children:[d.jsx("h3",{className:"text-xl font-bold mb-2",children:"Art Gallery System"}),d.jsx("p",{className:"text-gray-400 mb-4",children:"Developed a Java-MySQL art gallery system with real-time sync and sales-driven event optimization."}),d.jsx("div",{className:"flex flex-wrap gap-2 mb-4",children:["Java","MySQL"].map((v,k)=>d.jsx("span",{className:`
-                      bg-blue-500/10 text-blue-500 py-1 px-3 
+                      bg-blue-500/10 text-blue-500 py-1 px-3
                       rounded-full text-sm
                       transition
                       hover:bg-blue-500/20 hover:-translate-y-0.5
