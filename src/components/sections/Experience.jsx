@@ -38,24 +38,19 @@ export const Experience = () => {
                     <div>
                       <p className="font-medium text-blue-400 mb-1">AI SOC Platform (Morpheus)</p>
                       <ul className="list-disc list-inside space-y-1 text-sm">
-                        <li>Architected a multiplexed bidirectional gRPC streaming layer for concurrent analyst sessions, reducing connection overhead by ~40%.</li>
-                        <li>Implemented SignalR-based persistent connection management with session-aware message routing for real-time fan-out across multi-tenant environments.</li>
-                        <li>Extended the SOAR platform with AI-assisted workflow generation, reducing manual scripting effort by ~70%.</li>
+                        <li>Replaced per-session gRPC connections with a multiplexed shared stream after concurrent playbooks began exhausting socket/file descriptor limits in production, reducing connection overhead by ~40%.</li>
+                        <li>Designed and implemented a SignalR-based real-time communication layer with session-aware routing, enabling scalable fan-out of updates across concurrent analyst sessions in production SOC environments.</li>
+                        <li>Defined and standardized Protocol Buffer contracts for chat messaging, playbook mutations, runtime status updates, and subscription flows, standardizing cross-service communication across distributed backend services in a microservice-based SOC platform.</li>
+                        <li>Drove the integration of AI-assisted workflow generation into the SOAR platform, converting natural-language instructions into executable playbook logic and reducing manual scripting effort by ~70%.</li>
+                        <li>Designed connection lifecycle management, health monitoring, and graceful shutdown handling for long-lived streaming sessions, improving stability in Kubernetes-based multi-tenant production environments.</li>
                       </ul>
                     </div>
                     <div>
-                      <p className="font-medium text-blue-400 mb-1">SOAR Automation Platform & Backend</p>
+                      <p className="font-medium text-blue-400 mb-1">Production Support & Data Performance Optimization</p>
                       <ul className="list-disc list-inside space-y-1 text-sm">
-                        <li>Re-architected the Python/Jinja2 automation execution engine powering enterprise SOC playbooks, reducing authoring complexity by ~70%.</li>
-                        <li>Led modernization of legacy backend services to .NET 8, reducing technical debt and improving production stability.</li>
-                        <li>Designed and maintained RESTful and gRPC APIs for distributed microservices handling security data processing and workflow execution.</li>
-                      </ul>
-                    </div>
-                    <div>
-                      <p className="font-medium text-blue-400 mb-1">Production Support & Data Performance</p>
-                      <ul className="list-disc list-inside space-y-1 text-sm">
-                        <li>Resolved critical performance issues in high-throughput ingestion pipelines (~100k events/sec) via SQL Server index optimization and query tuning.</li>
-                        <li>Introduced batch processing and transaction optimization strategies, lowering query latency by 50–70% under sustained high load.</li>
+                        <li>Owned the resolution of critical performance incidents in high-throughput ingestion pipelines (~100k events/sec), optimizing SQL Server indexing strategies and query execution plans to eliminate disk I/O contention and restore system stability under sustained enterprise workloads.</li>
+                        <li>Performed deep execution plan analysis and index optimization across large-scale SQL Server ingestion workloads, eliminating missing indexes, inefficient joins, and full table scans that caused database contention under sustained high load.</li>
+                        <li>Introduced batch processing, query refactoring, and transaction optimization strategies to reduce transaction log pressure and disk queue length, lowering query latency by 50–70% and stabilizing the system under continuous high-ingestion traffic.</li>
                       </ul>
                     </div>
                   </div>

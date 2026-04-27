@@ -53,8 +53,9 @@ export const About = () => {
 
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
-              Software Engineer with 4+ years of experience building distributed backend systems,
-              real-time streaming infrastructure, and AI-assisted automation platforms for enterprise SaaS.
+              Backend Engineer with 4+ years of experience building high-throughput distributed platforms
+              in .NET and Python. Specialized in real-time streaming architectures (gRPC/WebSocket),
+              human-in-the-loop AI workflows, and scaling multi-tenant SaaS systems under production load.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

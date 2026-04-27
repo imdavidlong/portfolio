@@ -13,9 +13,10 @@ export const Home = () => {
           </h1>
 
           <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
-          Software Engineer with 4+ years of experience designing distributed backend systems in .NET and Python.
-          Specialized in real-time streaming, high-throughput data ingestion, and AI-assisted workflow automation
-          for enterprise SaaS platforms.
+          Backend Engineer specializing in real-time AI-powered systems, with 4+ years building high-throughput
+          distributed platforms (100k+ events/sec) in .NET and Python. Experienced in designing human-in-the-loop
+          AI workflows, streaming architectures (gRPC/WebSocket), and scaling multi-tenant SaaS systems under
+          production load.
           </p>
           <div className="flex justify-center space-x-4">
             <a
