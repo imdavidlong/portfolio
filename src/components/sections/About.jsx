@@ -2,6 +2,7 @@ import { RevealOnScroll } from "../RevealOnScroll";
 
 export const About = () => {
   const frontendSkills = [
+    "Blazor",
     "React",
     "JavaScript",
     "TypeScript",
@@ -13,19 +14,23 @@ export const About = () => {
 
   const backendSkills = [
     "C#",
-    ".NET 8",
+    ".NET",
+    "ASP.NET Core",
+    "Entity Framework Core",
     "Python",
     "Java",
     "PHP",
     "REST APIs",
     "gRPC",
     "SQL Server",
+    "SQLite",
     "PostgreSQL",
     "MongoDB",
     "Redis",
   ];
 
   const tools = [
+    "Azure App Service",
     "Docker",
     "Kubernetes",
     "CI/CD",
@@ -53,9 +58,10 @@ export const About = () => {
 
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
-              Backend Engineer with 4+ years of experience building high-throughput distributed platforms
-              in .NET and Python. Specialized in real-time streaming architectures (gRPC/WebSocket),
-              human-in-the-loop AI workflows, and scaling multi-tenant SaaS systems under production load.
+              Backend Engineer with 4+ years of experience building .NET and Python systems,
+              from real-time streaming services to full-stack portfolio management platforms.
+              Experienced with Blazor, ASP.NET Core, EF Core, gRPC/WebSocket workflows,
+              human-in-the-loop AI automation, and deploying SaaS-style applications on Azure.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
