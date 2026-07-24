@@ -58,10 +58,10 @@ export const About = () => {
 
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
-              Backend Engineer with 4+ years of experience building .NET and Python systems,
-              from real-time streaming services to full-stack portfolio management platforms.
-              Experienced with Blazor, ASP.NET Core, EF Core, gRPC/WebSocket workflows,
-              human-in-the-loop AI automation, and deploying SaaS-style applications on Azure.
+              Software Engineer with 4+ years of experience designing and building backend systems,
+              real-time services, and AI-assisted workflows across security, SaaS, and data-heavy products.
+              I work comfortably across .NET, Python, cloud infrastructure, and modern frontend experiences,
+              with a strong focus on reliability, scalability, and clear product delivery.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

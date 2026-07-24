@@ -25,7 +25,8 @@ export const Projects = () => {
             >
               <h3 className="text-xl font-bold mb-2">PortfolioHub</h3>
               <p className="text-gray-400 mb-4">
-                Enterprise Strategic Portfolio Management SaaS built with Blazor and .NET 10. Features executive dashboarding, full project CRUD, resource capacity management, budget reporting, and risk governance behind a custom Apple-inspired design system.
+                A strategic portfolio management platform for planning and delivery teams, featuring executive dashboards,
+                project lifecycle workflows, budgeting, resource planning, and governance tools in a polished SaaS experience.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["Blazor", "C#", ".NET 10", "Entity Framework Core", "SQLite", "ASP.NET Core Identity"].map((tech, key) => (
@@ -66,8 +67,8 @@ export const Projects = () => {
             <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
               <h3 className="text-xl font-bold mb-2">TranscriptDL</h3>
               <p className="text-gray-400 mb-4">
-                One-click YouTube transcript downloader with smart sentence grouping, inline translation,
-                bilingual UI, and .txt export. No account required.
+                A lightweight utility for extracting and organizing YouTube transcripts with translation, sentence grouping,
+                and export support for easier content review and reuse.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["Python", "Flask", "JavaScript", "HTML/CSS"].map((tech, key) => (
@@ -103,8 +104,8 @@ export const Projects = () => {
             <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition">
               <h3 className="text-xl font-bold mb-2"> MBTI Life Solver AI Bot</h3>
               <p className="text-gray-400 mb-4">
-              Created an AI-powered web app delivering personalized support using GPT-4o, MBTI insights,
-              and an interactive Streamlit interface.
+                An AI-powered assistant that combines GPT-based reasoning with MBTI-inspired guidance to deliver personalized,
+                conversational support through an interactive web experience.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["Python", "Streamlit", "OpenAI API"].map((tech, key) => (
@@ -139,7 +140,7 @@ export const Projects = () => {
             >
               <h3 className="text-xl font-bold mb-2"> Covid-19 Info Update App</h3>
               <p className="text-gray-400 mb-4">
-              Built a secure, real-time Covid-19 app with Spring Boot, MyBatis, and a responsive Bootstrap interface.
+                A full-stack information app for tracking COVID-19 updates through a responsive frontend and secure backend services.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["Java", "Spring Boot", "Maven", "MyBatis"].map((tech, key) => (
@@ -177,7 +178,7 @@ export const Projects = () => {
             >
               <h3 className="text-xl font-bold mb-2">Budget App</h3>
               <p className="text-gray-400 mb-4">
-              Built a dynamic budget app with JavaScript and jQuery, featuring real-time tracking and cloud deployment.
+                A personal finance web app focused on clear expense tracking, budgeting workflows, and a straightforward user experience.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["JavaScript", "HTML", "CSS", "jQuery", "Huawei Cloud"].map(
@@ -217,7 +218,7 @@ export const Projects = () => {
             >
               <h3 className="text-xl font-bold mb-2">Art Gallery System</h3>
               <p className="text-gray-400 mb-4">
-              Developed a Java-MySQL art gallery system with real-time sync and sales-driven event optimization.
+                A database-driven gallery platform that manages exhibits, inventory, and sales-related activities with a focus on reliability.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["Java", "MySQL"].map((tech, key) => (
