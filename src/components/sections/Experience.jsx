@@ -32,8 +32,11 @@ export const Experience = () => {
               <div className="space-y-6 text-gray-300">
                 <div>
                   <h4 className="font-semibold text-white">
-                    Software Developer — D3 Security, Vancouver, BC (August 2021 – Present)
+                    Software Developer — D3 Security, Vancouver, BC (August 2021 – June 2026)
                   </h4>
+                  <p className="text-sm text-gray-400 mt-2">
+                    Departed in June 2026 following company-wide layoffs.
+                  </p>
                   <div className="mt-3 space-y-4">
                     <div>
                       <p className="font-medium text-blue-400 mb-1">AI-Driven Security Operations Platform</p>
